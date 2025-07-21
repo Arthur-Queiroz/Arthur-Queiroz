@@ -1,7 +1,7 @@
 <h1 align="center">Arthur de Queiroz</h1>
 
 <p align="center">
-  <i>Desenvolvedor Backend | Estudante de ADS</i>
+  <i>Desenvolvedor | Estudante de ADS</i>
 </p>
 
 ---
