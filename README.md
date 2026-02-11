@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Me chamo Arthur, tenho 20 anos e moro em Santo André - SP. Sou estudante de **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** e atuo como desenvolvedor backend, com foco em tecnologias como **NestJS, TypeScript, Node.js e PostgreSQL**.
+Olá! Me chamo Arthur, tenho 21 anos e moro em Santo André - SP. Sou estudante de **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** e atuo como desenvolvedor backend, com foco em tecnologias como **NestJS, TypeScript, Node.js e PostgreSQL**.
 
 ---
 
