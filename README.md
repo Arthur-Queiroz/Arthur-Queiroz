@@ -13,17 +13,54 @@ Tenho me concentrado em Go, .NET e TypeScript, com atenção a arquitetura simpl
 
 ## Projetos em destaque
 
-- [jfolio](https://github.com/Arthur-Queiroz/portfolio-frontend) — meu portfólio, construído como uma aplicação Next.js com BFF. A API separada em [.NET 10](https://github.com/Arthur-Queiroz/portfolio-backend) usa PostgreSQL, autenticação JWT, API key, OpenAPI e pipeline de CI/deploy.
-- [Evoque Cobranças](https://github.com/Arthur-Queiroz/evoque-billing-api) — API ASP.NET Core para o ciclo de faturamento corporativo, com competência, prévias, aprovações, auditoria, lotes idempotentes e integração segura com Asaas. A interface interna está em [Next.js](https://github.com/Arthur-Queiroz/evoque-billing-web).
-- [ConversorJ Desktop](https://github.com/Arthur-Queiroz/conversorj-desktop-windows) — aplicação Windows em .NET para conversão de mídia e transcrição local com `yt-dlp`, `ffmpeg` e `whisper.cpp`.
-- [jpad](https://github.com/Arthur-Queiroz/jpad) — editor colaborativo minimalista inspirado no Dontpad, com Go + Chi, Vue, SQLite, Caddy e Docker Compose. [Ver em produção.](https://jpad.devarthur.com.br/)
-- [J Initializr](https://github.com/Arthur-Queiroz/jinitializr) — gerador de projetos Go no estilo start.spring.io; produz um scaffold pronto para executar e demonstra uma abordagem baseada majoritariamente na biblioteca padrão.
+<table>
+  <thead>
+    <tr>
+      <th align="left">Projeto</th>
+      <th align="left">O que construí</th>
+      <th align="left">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Arthur-Queiroz/portfolio-frontend"><b>jfolio</b></a></td>
+      <td>Portfólio com BFF, painel administrativo e API separada em .NET 10 com PostgreSQL, JWT, API key, OpenAPI e CI/CD.</td>
+      <td>Next.js · ASP.NET Core · PostgreSQL</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Arthur-Queiroz/evoque-billing-api"><b>Evoque Cobranças</b></a></td>
+      <td>Fluxo corporativo de faturamento: competência, prévia, aprovação, auditoria, lotes idempotentes e integração segura com Asaas.</td>
+      <td>ASP.NET Core · MySQL · Next.js</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Arthur-Queiroz/conversorj-desktop-windows"><b>ConversorJ Desktop</b></a></td>
+      <td>Aplicativo Windows para conversão de mídia e transcrição local, integrando yt-dlp, ffmpeg e whisper.cpp.</td>
+      <td>.NET · WPF · whisper.cpp</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Arthur-Queiroz/jpad"><b>jpad</b></a></td>
+      <td>Editor colaborativo minimalista inspirado no Dontpad, com notas por URL e salvamento automático.</td>
+      <td>Go · Vue · SQLite · Docker</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Arthur-Queiroz/jinitializr"><b>J Initializr</b></a></td>
+      <td>Gerador de projetos Go no estilo start.spring.io, entregue como binário único com frontend e templates incorporados.</td>
+      <td>Go · Vue · Vite</td>
+    </tr>
+  </tbody>
+</table>
 
-## Também vale conhecer
+[Ver todos os repositórios →](https://github.com/Arthur-Queiroz?tab=repositories)
 
-- [Financej](https://github.com/Arthur-Queiroz/financej) — PWA de finanças pessoais com Nuxt, PostgreSQL, Prisma, autenticação e exportação de relatórios.
-- [JBoard](https://github.com/Arthur-Queiroz/jboard) — kanban pessoal em Go.
-- [ConversorJ Web](https://github.com/Arthur-Queiroz/conversorj) — conversor self-hosted de YouTube e X para MP3/MP4 com Docker Compose.
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arthur-Queiroz&theme=github-dark-blue&hide_border=true&card_width=795&exclude_days=Sun%2CSat" alt="Sequência de contribuições no GitHub" />
+</p>
+
+## Outros projetos
+
+[Financej](https://github.com/Arthur-Queiroz/financej) · [JBoard](https://github.com/Arthur-Queiroz/jboard) · [ConversorJ Web](https://github.com/Arthur-Queiroz/conversorj)
 
 ## Contato
 
