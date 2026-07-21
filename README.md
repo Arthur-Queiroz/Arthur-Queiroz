@@ -1,40 +1,30 @@
-<h1 align="center">Arthur de Queiroz</h1>
+# Arthur de Queiroz
 
-<p align="center">
-  <i>Dev Júnior</i>
-</p>
+Desenvolvedor full cycle na [Evopass](https://evopass.com.br/), de Santo André — SP. Trabalho na construção de produtos web e serviços de ponta a ponta: da modelagem e APIs ao frontend, deploy e operação.
 
----
+Tenho me concentrado em Go, .NET e TypeScript, com atenção a arquitetura simples, segurança e software que seja fácil de manter.
 
-## 👨‍💻 Sobre mim
+## No que tenho trabalhado
 
-Olá! Me chamo Arthur, tenho 21 anos e moro em Santo André - SP. Sou formado em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** e atuo como desenvolvedor fullstack, com foco em tecnologias como **NestJS, TypeScript, Node.js e PostgreSQL**.
+- APIs e backends com **Go**, **ASP.NET Core** e **Node.js**;
+- interfaces web com **Next.js**, **Vue/Nuxt** e **TypeScript**;
+- persistência com **PostgreSQL**, **MySQL** e **SQLite**;
+- deploy e operação com **Docker Compose**, **Caddy**, **Cloudflare** e CI/CD.
 
----
+## Projetos em destaque
 
-## 🛠️ Tecnologias e Ferramentas
+- [jfolio](https://github.com/Arthur-Queiroz/portfolio-frontend) — meu portfólio, construído como uma aplicação Next.js com BFF. A API separada em [.NET 10](https://github.com/Arthur-Queiroz/portfolio-backend) usa PostgreSQL, autenticação JWT, API key, OpenAPI e pipeline de CI/deploy.
+- [Evoque Cobranças](https://github.com/Arthur-Queiroz/evoque-billing-api) — API ASP.NET Core para o ciclo de faturamento corporativo, com competência, prévias, aprovações, auditoria, lotes idempotentes e integração segura com Asaas. A interface interna está em [Next.js](https://github.com/Arthur-Queiroz/evoque-billing-web).
+- [ConversorJ Desktop](https://github.com/Arthur-Queiroz/conversorj-desktop-windows) — aplicação Windows em .NET para conversão de mídia e transcrição local com `yt-dlp`, `ffmpeg` e `whisper.cpp`.
+- [jpad](https://github.com/Arthur-Queiroz/jpad) — editor colaborativo minimalista inspirado no Dontpad, com Go + Chi, Vue, SQLite, Caddy e Docker Compose. [Ver em produção.](https://jpad.devarthur.com.br/)
+- [J Initializr](https://github.com/Arthur-Queiroz/jinitializr) — gerador de projetos Go no estilo start.spring.io; produz um scaffold pronto para executar e demonstra uma abordagem baseada majoritariamente na biblioteca padrão.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,nest,nodejs,postgresql,mysql,git,github,linux" alt="Tech Stack"/>
-  </a>
-</p>
+## Também vale conhecer
 
----
+- [Financej](https://github.com/Arthur-Queiroz/financej) — PWA de finanças pessoais com Nuxt, PostgreSQL, Prisma, autenticação e exportação de relatórios.
+- [JBoard](https://github.com/Arthur-Queiroz/jboard) — kanban pessoal em Go.
+- [ConversorJ Web](https://github.com/Arthur-Queiroz/conversorj) — conversor self-hosted de YouTube e X para MP3/MP4 com Docker Compose.
 
-## 📊 Estatísticas
+## Contato
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Queiroz&show_icons=true&theme=radical" alt="Arthur de Queiroz GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Queiroz&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-### 📫 Conecte-se comigo
-
-<p align="center">
-  <a href="https://www.instagram.com/arthurdqueiroz2005//"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/Arthur-Queiroz"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/arthur-de-queiroz-0229b8266"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/arthur-de-queiroz-0229b8266) · [GitHub](https://github.com/Arthur-Queiroz) · [arthurdequeiroz2005@gmail.com](mailto:arthurdequeiroz2005@gmail.com)
